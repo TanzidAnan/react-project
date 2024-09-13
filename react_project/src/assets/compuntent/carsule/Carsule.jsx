@@ -39,6 +39,7 @@ const Carsule = () => {
       alt="Burger" />
   </div>
 </div>
+
         </div>
     );
 };
