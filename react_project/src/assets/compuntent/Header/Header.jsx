@@ -4,7 +4,7 @@ const Header = () => {
         <div>
             <nav className='navSection'>
                 <div>
-                    <h1>Tanzid</h1>
+                    <img src="../../img/client-1.png" alt="" />
                 </div>
                 <div >
                     <div className='leftDiv'>
